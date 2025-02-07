@@ -1,1 +1,1 @@
-# TypeScript練習用のテンプレート
+# TypeScript - Singleton Patter
